@@ -10,6 +10,9 @@ function Bg() {
         <div className="header_formats">פורמטים נתמכים : png, jpeg </div>
         <button className="upload_img_btn ">העלאת תמונה</button>
       </div>
+      <div className="middle_cont">
+        <div className="right-div"></div>
+      </div>
     </div>
   );
 }
