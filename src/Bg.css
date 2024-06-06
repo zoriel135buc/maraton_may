@@ -79,3 +79,19 @@
 .banner {
   width: 77%;
 }
+.tabs_no_bg,
+.tabs_original {
+  color: white;
+  font-size: 25px;
+  font-family: Aduma;
+  width: 100px;
+  text-align: center;
+}
+.tabs_cont {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.selected_tab {
+  border-bottom: 3px solid #9c27b0;
+}
